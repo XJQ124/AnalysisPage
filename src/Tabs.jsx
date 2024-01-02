@@ -150,7 +150,7 @@ const HandOver = () => {
         console.log(key);
         switch (key) {
             case '1':
-                setDateRange([dayjs().startOf(), dayjs().endOf()]);
+                setDateRange([dayjs().startOf('day'), dayjs().endOf('day')]);
                 break;
             case '2':
                 setDateRange([dayjs().startOf('week'), dayjs().endOf('week')]);
