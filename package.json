@@ -2,6 +2,7 @@
   "name": "task2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@ant-design/charts": "^1.4.3",
     "@ant-design/icons": "^5.2.6",
