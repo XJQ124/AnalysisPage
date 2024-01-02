@@ -1,0 +1,76 @@
+.box {
+  color: gray;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.topCard {
+  width: auto;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+
+.num {
+
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 15px;
+}
+
+.numGray {
+
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+}
+
+.custom-button {
+  color: black;
+
+}
+
+.custom-button:hover {
+  color: rgb(172, 203, 248);
+  /* 悬停时文本颜色为蓝色 */
+}
+
+.search {
+  height: 670px;
+  width: 650px;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-Right: 30px;
+
+}
+
+.sales {
+
+  height: 670px;
+  width: 650px;
+  left: 700px;
+  margin-top: -670px;
+  margin-left: 45px;
+  margin-right: 30px
+}
+
+.tran {
+  width: auto;
+  height: auto;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
